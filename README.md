@@ -1,1 +1,1 @@
-# jcommons-domain-model-jackason
+# jcommons-domain-model-jackson
