@@ -1,0 +1,1 @@
+# jcommons-domain-model-jackason
