@@ -7,7 +7,7 @@ import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 
-public final class EntityObjectMapper extends ObjectMapper {
+public class EntityObjectMapper extends ObjectMapper {
 
     public EntityObjectMapper() {
         // Deserialization features
